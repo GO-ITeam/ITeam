@@ -1,0 +1,12 @@
+body {
+	background-color: silver;
+}
+.wrapper {
+	margin-left: 250px;
+	margin-right: 250px;
+	text-align: center;
+}
+img {
+	width: 350px;
+	height: 350px;
+}
