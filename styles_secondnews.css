@@ -22,3 +22,7 @@ a{
 blockquote{
 	font-weight: bold;
 }
+.right_aligned_text {
+	text-align: right;
+	font-style: italic;
+	font-size: 10px;
