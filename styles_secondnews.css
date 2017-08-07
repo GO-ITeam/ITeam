@@ -5,9 +5,20 @@ body {
 margin-left: 8px;
 }
 
-.article_details{
+.small_text {
 	font-size: 10px;
 }
+
 a{
 	text-decoration: none;
+}
+.red_uppercase {
+	font-size: 10px;
+	text-transform: uppercase;
+	color: red;
+
+}
+
+blockquote{
+	font-weight: bold;
 }
